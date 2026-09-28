@@ -82,7 +82,10 @@ http {
   <img src="./assets/web-two.png" alt="Web Server Two" width="260">
   <img src="./assets/web-backup.png" alt="Web Server Backup" width="260">
 </p>
-<img src="./assets/security.png" alt="Web Server Backup" width="260">
+<p align="center">
+<img src="./assets/security.png" alt="Web Server Backup" width="400">
+</p>
+
 <p align="center"><em>Web Server One · Web Server Two · Web Server Backup</em></p>
 
 
