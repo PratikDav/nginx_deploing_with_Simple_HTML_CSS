@@ -86,7 +86,7 @@ http {
 <img src="./assets/security.png" alt="Web Server Backup" width="400" height="400">
 </p>
 
-<p align="center"><em>Web Server One · Web Server Two · Web Server Backup</em></p>
+<p align="center"><em>Web Server One · Web Server Two · Web Server Backup · Security Group</em></p>
 
 
 ## 🤔 Open Question
