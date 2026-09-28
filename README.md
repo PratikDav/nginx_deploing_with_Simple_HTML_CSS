@@ -5,7 +5,7 @@ A hands-on setup demonstrating Nginx as a reverse proxy and load balancer distri
 </p>
 
 <p align="center">
-  <img src="./assets/architecture.png" alt="Architecture Overview" width="720">
+  <img src="./assets/architecture.png" alt="Architecture Overview" width="620">
 </p>
 
 ---
@@ -83,7 +83,7 @@ http {
   <img src="./assets/web-backup.png" alt="Web Server Backup" width="260">
 </p>
 <p align="center">
-<img src="./assets/security.png" alt="Web Server Backup" width="400">
+<img src="./assets/security.png" alt="Web Server Backup" width="400"height="400">
 </p>
 
 <p align="center"><em>Web Server One · Web Server Two · Web Server Backup</em></p>
